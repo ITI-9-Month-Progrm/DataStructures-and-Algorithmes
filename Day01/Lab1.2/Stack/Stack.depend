@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1608025671 source:d:\datastructures-and-algorithmes\day01\lab1.1\stack\main.cpp
+	<iostream>
+	"StackList.h"
+
+1608025022 d:\datastructures-and-algorithmes\day01\lab1.1\stack\include\linkedlist.h
+	"Node.h"
+
+1608023951 d:\datastructures-and-algorithmes\day01\lab1.1\stack\include\node.h
+
+1608025657 d:\datastructures-and-algorithmes\day01\lab1.1\stack\include\stacklist.h
+	"Node.h"
+
