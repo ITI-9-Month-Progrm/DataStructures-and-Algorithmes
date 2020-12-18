@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1608237468 source:d:\datastructures-and-algorithmes\day03\bstagain\main.cpp
+	<iostream>
+	"BST.h"
+
+1608242103 d:\datastructures-and-algorithmes\day03\bstagain\include\bst.h
+	"NodeBST.h"
+	"StackList.h"
+
+1608235422 d:\datastructures-and-algorithmes\day03\bstagain\include\nodebst.h
+
+1608235516 d:\datastructures-and-algorithmes\day03\bstagain\include\stacklist.h
+	"NodeStack.h"
+
+1608235432 d:\datastructures-and-algorithmes\day03\bstagain\include\nodestack.h
+

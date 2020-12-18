@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608160711 source:d:\datastructures-and-algorithmes\day03\binarysearchtree\main.cpp
+	<iostream>
+	"BST.h"
+

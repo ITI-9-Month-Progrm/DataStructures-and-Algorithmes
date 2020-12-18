@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1608249654 source:d:\datastructures-and-algorithmes\day02\bubblesort\main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1608295404 d:\datastructures-and-algorithmes\day02\bubblesort\include\linkedlist.h
+	"Node.h"
+	<cmath>
+
+1608103942 d:\datastructures-and-algorithmes\day02\bubblesort\include\node.h
+

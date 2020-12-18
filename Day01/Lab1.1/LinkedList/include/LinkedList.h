@@ -105,11 +105,14 @@ class LinkedList
          }
       else {
             current=head->Next;
+            before=current->Preveous;
         for(int i=1;i<length-2;i++){
             if(index==i){
-                after=current->Next;
-                before=current->Preveous;
-                before->Next=after;
+                //after=current->Next;
+                //before=current->Preveous;
+                before->Next=current->Next;
+                before->Preveous=before;
+                //after->Preveous=before;
                  delete current;
                  break;
             }

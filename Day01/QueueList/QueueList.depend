@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1608058420 source:d:\datastructures-and-algorithmes\day01\lab1.3\queuelist\main.cpp
+	<iostream>
+	"QueueList.h"
+
+1608058188 d:\datastructures-and-algorithmes\day01\lab1.3\queuelist\include\queuelist.h
+	"Node.h"
+
+1608056580 d:\datastructures-and-algorithmes\day01\lab1.3\queuelist\include\node.h
+
